@@ -1,0 +1,20 @@
+<resources>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_name">FitNLit</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="fisrtname">firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="email_address">email_address</string>
+    <string name="pass">pass</string>
+    <string name="register">register</string>
+    <string name="signed_up">signed_up</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
